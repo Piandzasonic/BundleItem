@@ -14,7 +14,7 @@ public final class BundleItemPlugin extends JavaPlugin {
     @Override
     public void onEnable() {
         // Plugin startup logic
-        int pluginID = 0;
+        int pluginID = 19631;
         Metrics metrics = new Metrics(this, pluginID);
 
         ShapedRecipe recipe = new ShapedRecipe(new NamespacedKey(this, "bundle"), new ItemStack(Material.BUNDLE, 1));

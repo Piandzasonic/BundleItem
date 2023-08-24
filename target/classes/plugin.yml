@@ -1,0 +1,7 @@
+name: BundleItem
+version: '1.0'
+main: me.alzen.bundleitem.BundleItemPlugin
+api-version: '1.16'
+authors: [Alzen]
+description: Enables the crafting and usage of the vanilla item, Bundle.
+website: https://www.spigotmc.org/resources/authors/alzen.1861423/

@@ -1,0 +1,14 @@
+me\alzen\bundleitem\bstats\Metrics$MultiLineChart.class
+me\alzen\bundleitem\bstats\Metrics$SimpleBarChart.class
+me\alzen\bundleitem\bstats\Metrics$CustomChart.class
+me\alzen\bundleitem\bstats\Metrics$1.class
+me\alzen\bundleitem\bstats\Metrics$AdvancedPie.class
+me\alzen\bundleitem\bstats\Metrics$MetricsBase.class
+me\alzen\bundleitem\bstats\Metrics.class
+me\alzen\bundleitem\bstats\Metrics$JsonObjectBuilder$JsonObject.class
+me\alzen\bundleitem\bstats\Metrics$SimplePie.class
+me\alzen\bundleitem\bstats\Metrics$AdvancedBarChart.class
+me\alzen\bundleitem\bstats\Metrics$JsonObjectBuilder.class
+me\alzen\bundleitem\BundleItemPlugin.class
+me\alzen\bundleitem\bstats\Metrics$DrilldownPie.class
+me\alzen\bundleitem\bstats\Metrics$SingleLineChart.class
